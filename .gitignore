@@ -1,0 +1,9 @@
+# Local editor settings and generator scratch files
+.idea/
+.2026824-25900-f7onx2.5vkkh/
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example

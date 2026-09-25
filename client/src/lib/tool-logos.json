@@ -1,0 +1,434 @@
+{
+  "TypeScript": [
+    {
+      "src": "/tool-icons/logos-typescript-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "JavaScript": [
+    {
+      "src": "/tool-icons/logos-javascript.svg",
+      "monochrome": false
+    }
+  ],
+  "Java": [
+    {
+      "src": "/tool-icons/logos-java.svg",
+      "monochrome": false
+    }
+  ],
+  "JDK": [
+    {
+      "src": "/tool-icons/logos-java.svg",
+      "monochrome": false
+    }
+  ],
+  "VB.NET": [
+    {
+      "src": "/tool-icons/simple-visualbasic.svg",
+      "monochrome": false
+    }
+  ],
+  "HTML": [
+    {
+      "src": "/tool-icons/logos-html-5.svg",
+      "monochrome": false
+    }
+  ],
+  "CSS": [
+    {
+      "src": "/tool-icons/logos-css-3.svg",
+      "monochrome": false
+    }
+  ],
+  "React": [
+    {
+      "src": "/tool-icons/logos-react.svg",
+      "monochrome": false
+    }
+  ],
+  "Vite": [
+    {
+      "src": "/tool-icons/logos-vite-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Next.js": [
+    {
+      "src": "/tool-icons/logos-nextjs-icon.svg",
+      "monochrome": true
+    }
+  ],
+  "Tailwind CSS": [
+    {
+      "src": "/tool-icons/logos-tailwindcss-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Refine": [
+    {
+      "src": "/tool-icons/simple-refine.svg",
+      "monochrome": false
+    }
+  ],
+  "React Router": [
+    {
+      "src": "/tool-icons/logos-react-router.svg",
+      "monochrome": false
+    }
+  ],
+  "Framer Motion": [
+    {
+      "src": "/tool-icons/logos-framer.svg",
+      "monochrome": true
+    }
+  ],
+  "Node.js": [
+    {
+      "src": "/tool-icons/logos-nodejs-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Express.js": [
+    {
+      "src": "/tool-icons/logos-express.svg",
+      "monochrome": true
+    }
+  ],
+  "NestJS / Fastify": [
+    {
+      "src": "/tool-icons/logos-nestjs.svg",
+      "monochrome": false
+    },
+    {
+      "src": "/tool-icons/logos-fastify-icon.svg",
+      "monochrome": true
+    }
+  ],
+  "Spring Boot": [
+    {
+      "src": "/tool-icons/logos-spring-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "PostgreSQL": [
+    {
+      "src": "/tool-icons/logos-postgresql.svg",
+      "monochrome": false
+    }
+  ],
+  "MySQL": [
+    {
+      "src": "/tool-icons/logos-mysql-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Microsoft Access": [
+    {
+      "src": "/tool-icons/simple-microsoftaccess.svg",
+      "monochrome": false
+    }
+  ],
+  "Prisma": [
+    {
+      "src": "/tool-icons/logos-prisma.svg",
+      "monochrome": true
+    }
+  ],
+  "Drizzle": [
+    {
+      "src": "/tool-icons/logos-drizzle-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "JWT": [
+    {
+      "src": "/tool-icons/logos-jwt-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "OIDC / OAuth 2.x": [
+    {
+      "src": "/tool-icons/simple-openid.svg",
+      "monochrome": false
+    },
+    {
+      "src": "/tool-icons/logos-oauth.svg",
+      "monochrome": false
+    }
+  ],
+  "Zod": [
+    {
+      "src": "/tool-icons/logos-zod.svg",
+      "monochrome": false
+    }
+  ],
+  "React Hook Form": [
+    {
+      "src": "/tool-icons/simple-reacthookform.svg",
+      "monochrome": false
+    }
+  ],
+  "Vitest": [
+    {
+      "src": "/tool-icons/logos-vitest.svg",
+      "monochrome": false
+    }
+  ],
+  "React Testing Library": [
+    {
+      "src": "/tool-icons/logos-testing-library.svg",
+      "monochrome": false
+    }
+  ],
+  "Playwright": [
+    {
+      "src": "/tool-icons/logos-playwright.svg",
+      "monochrome": false
+    }
+  ],
+  "Socket.IO": [
+    {
+      "src": "/tool-icons/logos-socket-io.svg",
+      "monochrome": true
+    }
+  ],
+  "WebRTC": [
+    {
+      "src": "/tool-icons/logos-webrtc.svg",
+      "monochrome": false
+    }
+  ],
+  "AWS": [
+    {
+      "src": "/tool-icons/logos-aws.svg",
+      "monochrome": false
+    }
+  ],
+  "Amazon S3": [
+    {
+      "src": "/tool-icons/logos-aws-s3.svg",
+      "monochrome": false
+    }
+  ],
+  "Cloudinary": [
+    {
+      "src": "/tool-icons/logos-cloudinary-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Docker": [
+    {
+      "src": "/tool-icons/logos-docker-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Kubernetes / AWS ECS": [
+    {
+      "src": "/tool-icons/logos-kubernetes.svg",
+      "monochrome": false
+    },
+    {
+      "src": "/tool-icons/logos-aws-ecs.svg",
+      "monochrome": false
+    }
+  ],
+  "Terraform": [
+    {
+      "src": "/tool-icons/logos-terraform-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "GitHub Actions": [
+    {
+      "src": "/tool-icons/logos-github-actions.svg",
+      "monochrome": false
+    }
+  ],
+  "OpenTelemetry": [
+    {
+      "src": "/tool-icons/logos-opentelemetry-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Grafana / Datadog": [
+    {
+      "src": "/tool-icons/logos-grafana.svg",
+      "monochrome": false
+    },
+    {
+      "src": "/tool-icons/logos-datadog-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Sentry": [
+    {
+      "src": "/tool-icons/logos-sentry-icon.svg",
+      "monochrome": true
+    }
+  ],
+  "Redis": [
+    {
+      "src": "/tool-icons/logos-redis.svg",
+      "monochrome": false
+    }
+  ],
+  "OpenSearch": [
+    {
+      "src": "/tool-icons/logos-opensearch-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "SQS / Kafka": [
+    {
+      "src": "/tool-icons/logos-aws-sqs.svg",
+      "monochrome": false
+    },
+    {
+      "src": "/tool-icons/logos-kafka-icon.svg",
+      "monochrome": true
+    }
+  ],
+  "Hardhat": [
+    {
+      "src": "/tool-icons/logos-hardhat-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "local Ethereum development": [
+    {
+      "src": "/tool-icons/logos-ethereum-color.svg",
+      "monochrome": false
+    }
+  ],
+  "ChatGPT": [
+    {
+      "src": "/tool-icons/logos-openai-icon.svg",
+      "monochrome": true
+    }
+  ],
+  "Codex": [
+    {
+      "src": "/tool-icons/logos-codex.svg",
+      "monochrome": true
+    }
+  ],
+  "CodeRabbit": [
+    {
+      "src": "/tool-icons/logos-coderabbit-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "WebStorm": [
+    {
+      "src": "/tool-icons/logos-webstorm.svg",
+      "monochrome": false
+    }
+  ],
+  "VS Code": [
+    {
+      "src": "/tool-icons/logos-visual-studio-code.svg",
+      "monochrome": false
+    }
+  ],
+  "IntelliJ IDEA": [
+    {
+      "src": "/tool-icons/logos-intellij-idea.svg",
+      "monochrome": false
+    }
+  ],
+  "Maven": [
+    {
+      "src": "/tool-icons/logos-maven.svg",
+      "monochrome": false
+    }
+  ],
+  "Windows Forms": [
+    {
+      "src": "/tool-icons/logos-dotnet.svg",
+      "monochrome": false
+    }
+  ],
+  "Git": [
+    {
+      "src": "/tool-icons/logos-git-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "GitHub": [
+    {
+      "src": "/tool-icons/logos-github-icon.svg",
+      "monochrome": true
+    }
+  ],
+  "npm": [
+    {
+      "src": "/tool-icons/logos-npm-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Windows": [
+    {
+      "src": "/tool-icons/logos-microsoft-windows-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Linux": [
+    {
+      "src": "/tool-icons/logos-linux-tux.svg",
+      "monochrome": false
+    }
+  ],
+  "Ubuntu": [
+    {
+      "src": "/tool-icons/logos-ubuntu.svg",
+      "monochrome": false
+    }
+  ],
+  "Android VM / virtualization": [
+    {
+      "src": "/tool-icons/logos-android-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "VirtualBox / Android VM concepts": [
+    {
+      "src": "/tool-icons/simple-virtualbox.svg",
+      "monochrome": false
+    },
+    {
+      "src": "/tool-icons/logos-android-icon.svg",
+      "monochrome": false
+    }
+  ],
+  "Render": [
+    {
+      "src": "/tool-icons/simple-render.svg",
+      "monochrome": true
+    }
+  ],
+  "AWS-oriented deployment": [
+    {
+      "src": "/tool-icons/logos-aws.svg",
+      "monochrome": false
+    }
+  ],
+  "Arcjet": [
+    {
+      "src": "/tool-icons/arcjet.png",
+      "monochrome": true
+    }
+  ],
+  "Site24x7": [
+    {
+      "src": "/tool-icons/site24x7.ico",
+      "monochrome": false
+    }
+  ],
+  "Junie AI": [
+    {
+      "src": "/tool-icons/junie.svg",
+      "monochrome": false
+    }
+  ]
+}
